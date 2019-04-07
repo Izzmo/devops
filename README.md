@@ -3,6 +3,18 @@ DevOps is a culmination of many things. It first started as a movement to get de
 
 ## Development
 1. DevOps Assessment Tool
+2. Quality in the Value Stream
+   - Branching strategy
+     - Release flow
+     - Trunk-based
+   - Pull requests
+     - Reviewers
+     - Work item linking
+     - Build verfication
+     - Validation (QA?) in a real environment before completion
+   - Environments
+   - Gating / Governance
+3. Reporting and Monitoring
 
 ## Design & User Experience
 1. Style Guide
